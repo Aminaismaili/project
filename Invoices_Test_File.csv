@@ -1,0 +1,146 @@
+InvoiceID,AccountID,AccountTitle,Amount,Date,Vendor/Client,Description
+INV-0001,2111,Frais de constitution ,568.22,2025-01-02,Company 7,Transaction liée à Frais de constitution 
+INV-0002,2112,Frais préalables au démarrage ,1716.88,2024-12-22,Company 57,Transaction liée à Frais préalables au démarrage 
+INV-0003,2113,Frais d'augmentation du capital ,843.25,2025-01-05,Company 66,Transaction liée à Frais d'augmentation du capital 
+INV-0004,2114,"Frais sur opérations de fusions, scissions et transformations ",614.25,2024-09-01,Company 69,"Transaction liée à Frais sur opérations de fusions, scissions et transformations "
+INV-0005,2116,Frais de prospection ,608.53,2024-08-15,Company 68,Transaction liée à Frais de prospection 
+INV-0006,2117,Frais de publicité ,1542.85,2025-02-26,Company 64,Transaction liée à Frais de publicité 
+INV-0007,2118,Autres frais préliminaires ,3512.45,2024-03-20,Company 100,Transaction liée à Autres frais préliminaires 
+INV-0008,2121,Frais d'acquisition des immobilisations ,1812.89,2024-04-30,Company 70,Transaction liée à Frais d'acquisition des immobilisations 
+INV-0009,2125,Frais d'émission des emprunts ,3086.06,2024-04-14,Company 97,Transaction liée à Frais d'émission des emprunts 
+INV-0010,2128,Autres charges à répartir ,1639.35,2025-01-08,Company 57,Transaction liée à Autres charges à répartir 
+INV-0011,2210,Immobilisation en recherche et développement ,931.61,2025-01-10,Company 72,Transaction liée à Immobilisation en recherche et développement 
+INV-0012,2285,Immobilisations incorporelles en cours ,856.92,2024-08-24,Company 40,Transaction liée à Immobilisations incorporelles en cours 
+INV-0013,2311,Terrains nus ,856.55,2024-06-26,Company 47,Transaction liée à Terrains nus 
+INV-0014,2312,Terrains aménagés ,1374.85,2024-08-01,Company 25,Transaction liée à Terrains aménagés 
+INV-0015,2313,Terrains bâtis ,1780.01,2025-01-01,Company 59,Transaction liée à Terrains bâtis 
+INV-0016,2314,Terrains de gisement ,2498.19,2025-02-07,Company 88,Transaction liée à Terrains de gisement 
+INV-0017,2316,Agencements et aménagements de terrains ,2702.15,2024-09-09,Company 9,Transaction liée à Agencements et aménagements de terrains 
+INV-0018,2318,Autres terrains ,2517.28,2024-11-20,Company 89,Transaction liée à Autres terrains 
+INV-0019,2321,Bâtiments ,3978.2,2024-09-19,Company 59,Transaction liée à Bâtiments 
+INV-0020,2323,Constructions sur terrains d'autrui ,837.3,2024-09-15,Company 5,Transaction liée à Constructions sur terrains d'autrui 
+INV-0021,2325,Ouvrages d'infrastructure ,4116.95,2024-05-11,Company 65,Transaction liée à Ouvrages d'infrastructure 
+INV-0022,2327,Agencements et aménagements des constructions ,4328.34,2024-06-01,Company 90,Transaction liée à Agencements et aménagements des constructions 
+INV-0023,2328,Autres constructions ,4540.78,2025-02-09,Company 62,Transaction liée à Autres constructions 
+INV-0024,2331,Installations techniques ,756.98,2025-02-02,Company 60,Transaction liée à Installations techniques 
+INV-0025,2332,Matériel et outillage ,1310.74,2024-04-08,Company 12,Transaction liée à Matériel et outillage 
+INV-0026,2333,Emballages récupérables identifiables ,3184.41,2024-12-18,Company 49,Transaction liée à Emballages récupérables identifiables 
+INV-0027,2338,"Autres installations techniques, matériel et outillage ",2672.22,2024-11-28,Company 79,"Transaction liée à Autres installations techniques, matériel et outillage "
+INV-0028,2340,Matériel de transport ,1890.9,2024-10-01,Company 80,Transaction liée à Matériel de transport 
+INV-0029,2351,Mobilier de bureau ,4246.42,2024-07-15,Company 39,Transaction liée à Mobilier de bureau 
+INV-0030,2352,Matériel de bureau ,3385.21,2024-12-16,Company 21,Transaction liée à Matériel de bureau 
+INV-0031,2355,Matériel informatique ,1774.58,2024-08-28,Company 95,Transaction liée à Matériel informatique 
+INV-0032,2358,"Autres mobiliers, matériel de bureau et aménagements divers ",1239.82,2025-01-13,Company 16,"Transaction liée à Autres mobiliers, matériel de bureau et aménagements divers "
+INV-0033,2393,"Immobilisations corporelles en cours des installations techniques, matériel et outillage ",3568.39,2024-05-29,Company 33,"Transaction liée à Immobilisations corporelles en cours des installations techniques, matériel et outillage "
+INV-0034,2394,Immobilisations corporelles en cours de matériel de transport ,2067.83,2024-08-13,Company 4,Transaction liée à Immobilisations corporelles en cours de matériel de transport 
+INV-0035,2395,"Immobilisations corporelles en cours de mobiliers, matériel de bureau et aménagements divers ",1307.12,2024-10-10,Company 38,"Transaction liée à Immobilisations corporelles en cours de mobiliers, matériel de bureau et aménagements divers "
+INV-0036,2397,Avances et acomptes versés sur commandes d'immobilisations corporelles ,2198.13,2024-08-25,Company 8,Transaction liée à Avances et acomptes versés sur commandes d'immobilisations corporelles 
+INV-0037,2398,Autres immobilisations en cours ,1068.92,2024-08-16,Company 30,Transaction liée à Autres immobilisations en cours 
+INV-0038,6111,Achats de marchandises « groupe A » ,521.5,2024-04-26,Company 33,Transaction liée à Achats de marchandises « groupe A » 
+INV-0039,6112,Achat de marchandises « groupe B » ,2716.73,2024-04-13,Company 40,Transaction liée à Achat de marchandises « groupe B » 
+INV-0040,6114,Variation des stocks de marchandises ,3467.67,2024-06-28,Company 2,Transaction liée à Variation des stocks de marchandises 
+INV-0041,6119,"Rabais, remises et ristournes obtenus sur achats de marchandises ",1906.12,2024-10-08,Company 29,"Transaction liée à Rabais, remises et ristournes obtenus sur achats de marchandises "
+INV-0042,6122,Achats de matières et fournitures consommables ,393.36,2024-12-27,Company 1,Transaction liée à Achats de matières et fournitures consommables 
+INV-0043,6123,Achats d'emballages ,4590.54,2024-03-16,Company 15,Transaction liée à Achats d'emballages 
+INV-0044,6124,Variation des stocks de matières et de fournitures ,3593.81,2024-09-25,Company 66,Transaction liée à Variation des stocks de matières et de fournitures 
+INV-0045,6125,Achats non stockés de matières et de fournitures ,3609.13,2025-01-14,Company 81,Transaction liée à Achats non stockés de matières et de fournitures 
+INV-0046,6126,"Achats de travaux, études et prestations de services ",3431.75,2024-03-24,Company 7,"Transaction liée à Achats de travaux, études et prestations de services "
+INV-0047,6128,Achats de matières et de fournitures des exercices antérieurs ,2741.21,2024-07-24,Company 66,Transaction liée à Achats de matières et de fournitures des exercices antérieurs 
+INV-0048,6129,"Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures ",938.22,2024-03-12,Company 68,"Transaction liée à Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures "
+INV-0049,6131,Locations et charges locatives ,2111.72,2024-08-27,Company 51,Transaction liée à Locations et charges locatives 
+INV-0050,6132,"Redevances de crédit-bail, mobilier et matériel ",4464.06,2025-01-02,Company 75,"Transaction liée à Redevances de crédit-bail, mobilier et matériel "
+INV-0051,6133,Entretiens et réparations ,4017.21,2024-12-21,Company 49,Transaction liée à Entretiens et réparations 
+INV-0052,6134,Primes d'assurances ,2589.24,2024-12-04,Company 87,Transaction liée à Primes d'assurances 
+INV-0053,6135,Rémunérations du personnel extérieur à l'entreprise ,2599.13,2025-02-06,Company 31,Transaction liée à Rémunérations du personnel extérieur à l'entreprise 
+INV-0054,6136,Rémunérations d'intermédiaires et honoraires ,1280.28,2024-09-16,Company 22,Transaction liée à Rémunérations d'intermédiaires et honoraires 
+INV-0055,6137,"Redevances pour brevets, marques, droits et valeurs similaires ",4974.18,2024-06-16,Company 83,"Transaction liée à Redevances pour brevets, marques, droits et valeurs similaires "
+INV-0056,6141,"Etudes, recherches et documentations ",2174.99,2025-01-30,Company 98,"Transaction liée à Etudes, recherches et documentations "
+INV-0057,6142,Transports ,2136.72,2024-04-02,Company 13,Transaction liée à Transports 
+INV-0058,6143,"Déplacements, missions et réceptions ",1334.67,2024-03-12,Company 97,"Transaction liée à Déplacements, missions et réceptions "
+INV-0059,6144,"Publicités, publications et relations publiques ",4637.58,2024-06-13,Company 32,"Transaction liée à Publicités, publications et relations publiques "
+INV-0060,6145,Frais postaux et frais de télécommunication ,1718.76,2025-01-30,Company 33,Transaction liée à Frais postaux et frais de télécommunication 
+INV-0061,6146,Cotisations et dons ,614.84,2025-01-14,Company 38,Transaction liée à Cotisations et dons 
+INV-0062,6167,Services bancaires ,2605.36,2025-01-12,Company 79,Transaction liée à Services bancaires 
+INV-0063,6148,Autres charges externes des exercices antérieures ,2259.4,2024-12-05,Company 77,Transaction liée à Autres charges externes des exercices antérieures 
+INV-0064,6149,R.R.R. obtenus sur autres charges externes ,3885.66,2024-07-06,Company 20,Transaction liée à R.R.R. obtenus sur autres charges externes 
+INV-0065,6161,Impôts et taxes directs ,4168.15,2024-12-26,Company 19,Transaction liée à Impôts et taxes directs 
+INV-0066,6162,Impôts et taxes indirects ,1723.77,2024-03-17,Company 73,Transaction liée à Impôts et taxes indirects 
+INV-0067,6167,"Impôts, taxes et droits assimilés ",2498.67,2024-11-01,Company 19,"Transaction liée à Impôts, taxes et droits assimilés "
+INV-0068,6168,Impôts et taxes des exercices antérieurs ,1839.35,2024-08-14,Company 43,Transaction liée à Impôts et taxes des exercices antérieurs 
+INV-0069,6171,Rémunération du personnel ,4745.92,2024-09-28,Company 77,Transaction liée à Rémunération du personnel 
+INV-0070,6174,Charges sociales ,2040.17,2025-02-01,Company 54,Transaction liée à Charges sociales 
+INV-0071,6176,Charges sociales diverses ,3853.67,2024-10-31,Company 26,Transaction liée à Charges sociales diverses 
+INV-0072,6177,Rémunération de l'exploitant ,3356.63,2024-03-21,Company 41,Transaction liée à Rémunération de l'exploitant 
+INV-0073,6178,Charges de personnel des exercices antérieurs ,2183.33,2024-03-13,Company 11,Transaction liée à Charges de personnel des exercices antérieurs 
+INV-0074,6181,Jetons de présence ,4548.72,2024-10-28,Company 73,Transaction liée à Jetons de présence 
+INV-0075,6182,Pertes sur créances irrécouvrables ,781.33,2024-12-19,Company 68,Transaction liée à Pertes sur créances irrécouvrables 
+INV-0076,6185,Pertes sur opérations faites en commun ,499.36,2024-06-29,Company 50,Transaction liée à Pertes sur opérations faites en commun 
+INV-0077,6186,Transfert de profits sur opérations faites en commun ,1007.5,2024-07-05,Company 31,Transaction liée à Transfert de profits sur opérations faites en commun 
+INV-0078,6188,Autres charges d'exploitation des exercices antérieurs ,1165.64,2024-08-14,Company 73,Transaction liée à Autres charges d'exploitation des exercices antérieurs 
+INV-0079,6191,Dotations d'exploitation aux amortissements de l'immobilisation en nonvaleurs ,1241.07,2024-07-26,Company 61,Transaction liée à Dotations d'exploitation aux amortissements de l'immobilisation en nonvaleurs 
+INV-0080,6192,Dotations d'exploitation aux amortissements des immobilisations incorporelles ,3070.26,2024-09-20,Company 26,Transaction liée à Dotations d'exploitation aux amortissements des immobilisations incorporelles 
+INV-0081,6193,Dotations d'exploitation aux amortissements des immobilisations corporelles ,400.33,2025-03-04,Company 30,Transaction liée à Dotations d'exploitation aux amortissements des immobilisations corporelles 
+INV-0082,6194,D.E. aux provisions pour dépréciation des immobilisations ,677.54,2024-12-06,Company 88,Transaction liée à D.E. aux provisions pour dépréciation des immobilisations 
+INV-0083,6195,D.E. aux provisions pour risques et charges ,3755.33,2025-01-02,Company 85,Transaction liée à D.E. aux provisions pour risques et charges 
+INV-0084,6196,Dotations d'exploitation aux provisions pour dépréciations de l'actif circulant ,2962.96,2024-05-24,Company 57,Transaction liée à Dotations d'exploitation aux provisions pour dépréciations de l'actif circulant 
+INV-0085,7400,Dépenses liées à l'infrastructure cloud,107.9,2024-06-07,Company 97,Transaction liée à Dépenses liées à l'infrastructure cloud
+INV-0086,7410,Frais de cybersécurité,2542.46,2024-09-07,Company 98,Transaction liée à Frais de cybersécurité
+INV-0087,7420,Coûts d'intégration et de maintenance des ERP,1550.08,2024-12-25,Company 34,Transaction liée à Coûts d'intégration et de maintenance des ERP
+INV-0088,7530,Rémunération variable des dirigeants,4046.19,2024-07-01,Company 67,Transaction liée à Rémunération variable des dirigeants
+INV-0089,7540,Pensions et retraites des employés,4910.8,2024-04-04,Company 43,Transaction liée à Pensions et retraites des employés
+INV-0090,7550,Primes et avantages sociaux (ex : assurance santé),3354.35,2024-07-13,Company 82,Transaction liée à Primes et avantages sociaux (ex : assurance santé)
+INV-0091,7600,"Revenus générés par les investissements (dividendes, intérêts)",3607.46,2024-07-15,Company 41,"Transaction liée à Revenus générés par les investissements (dividendes, intérêts)"
+INV-0092,7610,Plus-values de cession d'actifs financiers,2212.89,2024-10-02,Company 90,Transaction liée à Plus-values de cession d'actifs financiers
+INV-0093,7700,Gestion des stocks obsolètes,2335.88,2024-08-02,Company 16,Transaction liée à Gestion des stocks obsolètes
+INV-0094,7710,"Coûts de la chaîne logistique (transport, stockage)",957.65,2024-05-26,Company 87,"Transaction liée à Coûts de la chaîne logistique (transport, stockage)"
+INV-0095,7800,Relations investisseurs (IR),2184.84,2024-09-16,Company 57,Transaction liée à Relations investisseurs (IR)
+INV-0096,7810,Frais d’émission d'actions et d'obligations,4283.17,2024-12-02,Company 23,Transaction liée à Frais d’émission d'actions et d'obligations
+INV-0097,7900,Initiatives écologiques et réduction des émissions,3141.29,2024-11-02,Company 6,Transaction liée à Initiatives écologiques et réduction des émissions
+INV-0098,7910,Fonds d'investissement dans la responsabilité sociétale (RSE),2324.78,2024-10-03,Company 31,Transaction liée à Fonds d'investissement dans la responsabilité sociétale (RSE)
+INV-0099,7920,Financement en capital-risque et investissements stratégiques,527.6,2024-06-25,Company 85,Transaction liée à Financement en capital-risque et investissements stratégiques
+INV-0100,7930,Subventions pour la recherche et l'innovation,2989.47,2024-12-22,Company 53,Transaction liée à Subventions pour la recherche et l'innovation
+INV-0101,2030,Immobilisations incorporelles en développement,1785.39,2024-12-17,Company 26,Transaction liée à Immobilisations incorporelles en développement
+INV-0102,2040,Immobilisations corporelles en location-financement,4901.17,2024-12-12,Company 22,Transaction liée à Immobilisations corporelles en location-financement
+INV-0103,2050,"Immobilisations biologiques (plantations, cultures)",2897.38,2024-05-03,Company 73,"Transaction liée à Immobilisations biologiques (plantations, cultures)"
+INV-0104,3110,Stocks de produits numériques,1081.27,2025-01-28,Company 92,Transaction liée à Stocks de produits numériques
+INV-0105,3120,Stocks en consignation,1758.75,2024-08-12,Company 41,Transaction liée à Stocks en consignation
+INV-0106,3160,Stocks de matériaux écologiques,2148.47,2024-07-24,Company 78,Transaction liée à Stocks de matériaux écologiques
+INV-0107,4010,Fournisseurs - Achat en devises,1863.07,2024-09-10,Company 39,Transaction liée à Fournisseurs - Achat en devises
+INV-0108,4130,Clients - Dépôts et avances,4109.89,2024-08-31,Company 50,Transaction liée à Clients - Dépôts et avances
+INV-0109,4200,Dettes fiscales différées,3092.67,2024-09-10,Company 85,Transaction liée à Dettes fiscales différées
+INV-0110,5200,Placements financiers à court terme,4785.88,2024-03-23,Company 32,Transaction liée à Placements financiers à court terme
+INV-0111,5230,Caisse en devises étrangères,2515.6,2024-08-09,Company 53,Transaction liée à Caisse en devises étrangères
+INV-0112,5300,Emprunts obligataires à long terme,358.25,2024-12-07,Company 79,Transaction liée à Emprunts obligataires à long terme
+INV-0113,6100,Achats de services numériques,3525.45,2024-12-25,Company 34,Transaction liée à Achats de services numériques
+INV-0114,6150,Charges d'assurances professionnelles,4196.31,2024-08-24,Company 85,Transaction liée à Charges d'assurances professionnelles
+INV-0115,6250,Frais de participation à des foires et salons,542.5,2024-08-14,Company 88,Transaction liée à Frais de participation à des foires et salons
+INV-0116,7100,Ventes de produits numériques,3016.72,2024-10-17,Company 74,Transaction liée à Ventes de produits numériques
+INV-0117,7150,Revenus issus des droits de propriété intellectuelle,3600.72,2025-01-21,Company 100,Transaction liée à Revenus issus des droits de propriété intellectuelle
+INV-0118,7170,Subventions et aides d'État,4189.33,2025-02-07,Company 9,Transaction liée à Subventions et aides d'État
+INV-0119,8000,Compte de gestion des projets R&D,4902.0,2024-07-26,Company 42,Transaction liée à Compte de gestion des projets R&D
+INV-0120,8100,Comptes de gestion des risques,4392.7,2024-08-17,Company 81,Transaction liée à Comptes de gestion des risques
+INV-0121,8200,Fonds de réserve pour investissements stratégiques,4334.26,2024-05-17,Company 80,Transaction liée à Fonds de réserve pour investissements stratégiques
+INV-0122,2010,Immobilisations en cours,908.49,2024-12-26,Company 77,Transaction liée à Immobilisations en cours
+INV-0123,2100,Immobilisations en leasing opérationnel,1279.24,2024-12-02,Company 77,Transaction liée à Immobilisations en leasing opérationnel
+INV-0124,2120,Immobilisations réutilisables (matériel de production),2741.78,2024-12-12,Company 58,Transaction liée à Immobilisations réutilisables (matériel de production)
+INV-0125,3150,Stocks en transit,3099.49,2024-04-07,Company 54,Transaction liée à Stocks en transit
+INV-0126,3180,Stocks de produits de seconde main,1580.76,2025-02-11,Company 5,Transaction liée à Stocks de produits de seconde main
+INV-0127,3190,Stocks en propriété de tiers,4392.62,2024-07-12,Company 74,Transaction liée à Stocks en propriété de tiers
+INV-0128,4200,"Dettes envers organismes publics (impôts, cotisations sociales)",280.15,2024-10-22,Company 71,"Transaction liée à Dettes envers organismes publics (impôts, cotisations sociales)"
+INV-0129,4290,Fournisseurs – Crédit-bail,277.42,2024-05-23,Company 79,Transaction liée à Fournisseurs – Crédit-bail
+INV-0130,4310,Clients - Retours et remises,2442.87,2024-11-16,Company 5,Transaction liée à Clients - Retours et remises
+INV-0131,5210,Placements à long terme,4134.97,2024-06-28,Company 59,Transaction liée à Placements à long terme
+INV-0132,5220,Dépôts et cautions reçus,1310.88,2024-09-26,Company 39,Transaction liée à Dépôts et cautions reçus
+INV-0133,5330,Crédits interentreprises (transactions intra-groupe),2442.02,2025-02-20,Company 92,Transaction liée à Crédits interentreprises (transactions intra-groupe)
+INV-0134,6400,Charges liées aux frais de représentation,1891.55,2025-03-06,Company 30,Transaction liée à Charges liées aux frais de représentation
+INV-0135,6450,"Charges pour services rendus par des tiers (consultants, prestataires externes)",4132.32,2025-03-04,Company 78,"Transaction liée à Charges pour services rendus par des tiers (consultants, prestataires externes)"
+INV-0136,6490,Charges financières exceptionnelles,4190.76,2024-08-22,Company 33,Transaction liée à Charges financières exceptionnelles
+INV-0137,7100,Ventes de biens d'occasion,216.61,2024-05-19,Company 36,Transaction liée à Ventes de biens d'occasion
+INV-0138,7230,Revenus liés à la location d’actifs immobiliers,422.58,2025-02-13,Company 100,Transaction liée à Revenus liés à la location d’actifs immobiliers
+INV-0139,7250,Revenus exceptionnels (ventes d’actifs non courants),3510.54,2024-12-18,Company 8,Transaction liée à Revenus exceptionnels (ventes d’actifs non courants)
+INV-0140,8000,Compte de régulation des risques (provisions spécifiques),174.9,2024-07-20,Company 20,Transaction liée à Compte de régulation des risques (provisions spécifiques)
+INV-0141,8100,Compte de gestion des ressources humaines (salaires et charges),173.29,2024-03-21,Company 90,Transaction liée à Compte de gestion des ressources humaines (salaires et charges)
+INV-0142,8200,"Comptes pour projets à long terme (recherche, développement)",3075.79,2024-05-20,Company 96,"Transaction liée à Comptes pour projets à long terme (recherche, développement)"
+INV-0143,9000,"Engagements à long terme (contrats de partenariat, joint-venture)",3296.35,2024-12-07,Company 22,"Transaction liée à Engagements à long terme (contrats de partenariat, joint-venture)"
+INV-0144,9100,Engagements hors bilan,350.77,2024-09-23,Company 17,Transaction liée à Engagements hors bilan
+INV-0145,9200,Garanties données à des tiers,3389.89,2024-04-24,Company 68,Transaction liée à Garanties données à des tiers
