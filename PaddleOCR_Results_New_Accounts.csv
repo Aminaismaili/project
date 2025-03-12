@@ -1,0 +1,121 @@
+InvoiceName,Text,Time(s)
+98.jpg,"Facture N°: INV-0001 
+Date: 2024-03-15 
+Montant: 1803.33 MAD 
+Fournisseur: Company 70 
+Détails: Immobilisations en cours - Achat ou service correspondant à cette facture.",2.384121
+77.jpg,"Facture N°: INV-0002 
+Date: 2024-06-07 
+Montant: 2908.06 MAD 
+Fournisseur: Company 52 
+Détails: Immobilisations en leasing opérationnel - Achat ou service correspondant à cette facture.",1.649027
+55.jpg,"Facture N°: INV-0003 
+Date: 2024-06-28 
+Montant: 4009.18 MAD 
+Fournisseur: Company 68 
+Détails: Immobilisations réutilisables (matériel de production) - Achat ou service correspondant à cette facture.",2.35431
+79.jpg,"Facture N°: INV-0004 
+Date: 2024-08-24 
+Montant: 4471.42 MAD 
+Fournisseur: Company 66 
+Détails: Stocks en transit - Achat ou service correspondant à cette facture.",2.465112
+56.jpg,"Facture N°: INV-0005 
+Date: 2024-04-09 
+Montant: 1817.72 MAD 
+Fournisseur: Company 57 
+Détails: Stocks de produits de seconde main - Achat ou service correspondant à cette facture.",1.75134
+3.jpg,"Facture N°: INV-0006 
+Date: 2024-10-04 
+Montant: 2715.55 MAD 
+Fournisseur: Company 8 
+Détails: Stocks en propriété de tiers - Achat ou service correspondant à cette facture.",1.405782
+26.jpg,"Facture N°: INV-0007 
+Date: 2025-02-14 
+Montant: 884.68 MAD 
+Fournisseur: Company 67 
+Détails: Dettes envers organismes publics (impôts, cotisations sociales) - Achat ou service correspondant à cette facture.",1.387954
+13.jpg,"Facture N°: INV-0008 
+Date: 2024-07-13 
+Montant: 4470.45 MAD 
+Fournisseur: Company 93 
+Détails: Fournisseurs – Crédit-bail - Achat ou service correspondant à cette facture.",2.65086
+17.jpg,"Facture N°: INV-0009 
+Date: 2024-10-06 
+Montant: 4224.0 MAD 
+Fournisseur: Company 16 
+Détails: Clients - Retours et remises - Achat ou service correspondant à cette facture.",2.966938
+28.jpg,"Facture N°: INV-0010 
+Date: 2024-04-14 
+Montant: 529.56 MAD 
+Fournisseur: Company 29 
+Détails: Placements à long terme - Achat ou service correspondant à cette facture.",2.257271
+47.jpg,"Facture N°: INV-0011 
+Date: 2024-11-07 
+Montant: 3973.43 MAD 
+Fournisseur: Company 20 
+Détails: Dépôts et cautions reçus - Achat ou service correspondant à cette facture.",2.973315
+98.jpg,"Facture N°: INV-0012 
+Date: 2024-04-06 
+Montant: 2186.94 MAD 
+Fournisseur: Company 95 
+Détails: Crédits interentreprises (transactions intra-groupe) - Achat ou service correspondant à cette facture.",2.121154
+69.jpg,"Facture N°: INV-0013 
+Date: 2024-12-15 
+Montant: 3568.66 MAD 
+Fournisseur: Company 41 
+Détails: Charges liées aux frais de représentation - Achat ou service correspondant à cette facture.",1.91314
+82.jpg,"Facture N°: INV-0014 
+Date: 2024-03-13 
+Montant: 583.9 MAD 
+Fournisseur: Company 99 
+Détails: Charges pour services rendus par des tiers (consultants, prestataires externes) - Achat ou service correspondant à cette facture.",1.727771
+8.jpg,"Facture N°: INV-0015 
+Date: 2024-05-27 
+Montant: 1323.91 MAD 
+Fournisseur: Company 5 
+Détails: Charges financières exceptionnelles - Achat ou service correspondant à cette facture.",1.868683
+93.jpg,"Facture N°: INV-0016 
+Date: 2024-06-20 
+Montant: 1530.97 MAD 
+Fournisseur: Company 92 
+Détails: Ventes de biens d'occasion - Achat ou service correspondant à cette facture.",2.364731
+34.jpg,"Facture N°: INV-0017 
+Date: 2024-12-10 
+Montant: 2339.94 MAD 
+Fournisseur: Company 77 
+Détails: Revenus liés à la location d’actifs immobiliers - Achat ou service correspondant à cette facture.",2.665916
+46.jpg,"Facture N°: INV-0018 
+Date: 2024-12-30 
+Montant: 157.16 MAD 
+Fournisseur: Company 13 
+Détails: Revenus exceptionnels (ventes d’actifs non courants) - Achat ou service correspondant à cette facture.",1.462434
+29.jpg,"Facture N°: INV-0019 
+Date: 2024-10-11 
+Montant: 2282.54 MAD 
+Fournisseur: Company 27 
+Détails: Compte de régulation des risques (provisions spécifiques) - Achat ou service correspondant à cette facture.",2.934222
+54.jpg,"Facture N°: INV-0020 
+Date: 2025-02-13 
+Montant: 4569.45 MAD 
+Fournisseur: Company 91 
+Détails: Compte de gestion des ressources humaines (salaires et charges) - Achat ou service correspondant à cette facture.",2.973263
+51.jpg,"Facture N°: INV-0021 
+Date: 2024-11-18 
+Montant: 2849.92 MAD 
+Fournisseur: Company 74 
+Détails: Comptes pour projets à long terme (recherche, développement) - Achat ou service correspondant à cette facture.",1.876066
+36.jpg,"Facture N°: INV-0022 
+Date: 2025-02-03 
+Montant: 471.07 MAD 
+Fournisseur: Company 14 
+Détails: Engagements à long terme (contrats de partenariat, joint-venture) - Achat ou service correspondant à cette facture.",1.378113
+76.jpg,"Facture N°: INV-0023 
+Date: 2024-04-28 
+Montant: 332.37 MAD 
+Fournisseur: Company 77 
+Détails: Engagements hors bilan - Achat ou service correspondant à cette facture.",2.646738
+52.jpg,"Facture N°: INV-0024 
+Date: 2024-09-23 
+Montant: 1776.96 MAD 
+Fournisseur: Company 47 
+Détails: Garanties données à des tiers - Achat ou service correspondant à cette facture.",1.588599
